@@ -2,7 +2,6 @@
 showonlyimage = false
 draft = false
 image = "loggia.png"
-date = "2018-22-01T18:25:22+05:30"
 title = "A complete design cycle for a social event sharing app"
 weight = 0
 +++

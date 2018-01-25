@@ -2,7 +2,6 @@
 showonlyimage = false
 draft = false
 image = "assembled.png"
-date = "2018-22-01T18:25:22+05:30"
 title = "Product Board for Assembled (A professional network for STEM students)"
 weight = 0
 +++

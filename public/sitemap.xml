@@ -3,34 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/portfolio/loggia/</loc>
+    <loc>/portfolio/blockchain/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/portfolio/loggia/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>/portfolio/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/assembled/</loc>
+    <loc>/portfolio/assembled/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/research/</loc>
+    <loc>/portfolio/research/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

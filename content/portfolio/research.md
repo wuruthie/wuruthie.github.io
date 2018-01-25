@@ -2,7 +2,6 @@
 showonlyimage = false
 draft = false
 image = "rsz_1scribbler.png"
-date = "2018-22-01T18:25:22+05:30"
 title = "Student Faculty Collaboration in Developing and Testing Infrastructure for a C Based Course Using Robots"
 weight = 0
 +++
