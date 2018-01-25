@@ -29,10 +29,6 @@ googleAnalytics = ""
      # - you're done. Happy mailing!
   email = "theruthwu@gmail.com"
 
-  # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = ""
 
   [params.social]
   email         = "theruthwu@gmail.com"
