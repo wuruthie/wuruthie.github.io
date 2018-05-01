@@ -11,13 +11,20 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/portfolio/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/first-post/</loc>
   </url>
   
   <url>

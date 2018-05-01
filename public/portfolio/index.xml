@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Ruth Wu</title>
+    <title>Portfolio on Ruth Wu</title>
     <link>/portfolio/</link>
-    <description>Recent content in Portfolios on Ruth Wu</description>
+    <description>Recent content in Portfolio on Ruth Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 ruth wu</copyright>
@@ -17,8 +17,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/blockchain/</guid>
-      <description>&lt;p&gt;Date: Jan 2016 - May 2016
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Date: Jan 2016 - May 2016&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,8 +28,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/loggia/</guid>
-      <description>&lt;p&gt;Date: Jan 2016 - May 2016
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Date: Jan 2016 - May 2016&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,8 +39,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/assembled/</guid>
-      <description>&lt;p&gt;Date: Mar 2016 - Aug 2016
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Date: Mar 2016 - Aug 2016&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,8 +50,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/research/</guid>
-      <description>&lt;p&gt;Date: Aug 2015 - Oct 2016
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Date: Aug 2015 - Oct 2016&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
