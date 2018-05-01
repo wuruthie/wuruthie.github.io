@@ -1,15 +1,16 @@
 +++
 showonlyimage = false
 draft = false
-image = "rsz_1scribbler.png"
+image = "/assets/img/rsz_1scribbler.png"
 title = "Student Faculty Collaboration in Developing and Testing Infrastructure for a C Based Course Using Robots"
 weight = 0
 +++
+
 Date: Aug 2015 - Oct 2016
+
 <!--more-->
 
 ![Me (Ruth), Henry Walker, && Sara Marku at the CCSC Midwest Conference presenting our paper][1]
-
 
 link: https://dl.acm.org/citation.cfm?id=3007239
 
@@ -20,8 +21,7 @@ link: https://dl.acm.org/citation.cfm?id=3007239
 * Increased usage of documentation for MyroC library
 * Rates of students who come from minority demographics (for tech) increased in the CS department
 
-
-## Description: 
+## Description:
 
 The bulk of my research for Henry Walker consisted of improving the C based CSC 161 course in the intro sequence (Data Structures and Imperative Programming) for the computer science major at Grinnell College.
 
@@ -37,5 +37,4 @@ As a four person research team, we conducted our research and development work t
 * Wrote new documentation to supplement existing docs
 * Created a doc to support porting MyroC Bluetooth library from Linux to MacOS
 
-
-[1]: /research.jpeg
+[1]: /assets/img/research.jpeg
