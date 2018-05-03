@@ -1,6 +1,5 @@
 baseURL = "/"
 title = "Ruth Wu"
-theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
@@ -29,6 +28,17 @@ googleAnalytics = ""
      # - you're done. Happy mailing!
   email = "theruthwu@gmail.com"
 
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "Blog"
+  url = "blog/"
+
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
 
   [params.social]
   email         = "theruthwu@gmail.com"
