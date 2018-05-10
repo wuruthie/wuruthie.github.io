@@ -8,8 +8,6 @@ weight = 0
 
 Date: Mar 2016 - Aug 2016
 
-<!--more-->
-
 ![A product pitch for Assembled][1]
 
 ## Outcomes:
